@@ -6,7 +6,7 @@ library(shiny)
 shinyUI(fluidPage(
   
   # Application title
-  titlePanel("Which is the Good Preictor of Fertility"),
+  titlePanel("Which is the Good Predictor of Fertility"),
   
 
   sidebarLayout(
